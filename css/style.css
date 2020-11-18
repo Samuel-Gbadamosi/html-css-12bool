@@ -33,7 +33,10 @@
 
 
 .row .row [class*="col-"]{
-  background-color: red;}
+  background-color: red;
+border: 2px solid pink;
+border-color:  white;
+}
 
 
 /* Framework */
